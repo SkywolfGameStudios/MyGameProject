@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Deygu/OneDrive/Documents/GitHub/MyGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/0/0N/XQR9J31A098ZWD0NDHRI7L.uasset",
+				"C:/Users/Deygu/OneDrive/Documents/GitHub/MyGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/LK/8DXZ8I10RVQDP6T16G7Z0E.uasset",
+				"C:/Users/Deygu/OneDrive/Documents/GitHub/MyGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/A/3O/CNNJD1Q8DHPM0MY00R6GUK.uasset",
+				"C:/Users/Deygu/OneDrive/Documents/GitHub/MyGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/0/1H/H9X5U3YGSCDTD8NWLXIQJ6.uasset",
+				"C:/Users/Deygu/OneDrive/Documents/GitHub/MyGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/VK/4IGAHZLJ847FQWJ7CON8JX.uasset"
+			]
+		}
+	]
+}
