@@ -1,6 +1,0 @@
-2023/01/10-13:04:10.259 dfec Creating DB C:/Users/Deygu/OneDrive/Documents/GitHub/MyGameProject/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
-2023/01/10-13:04:10.271 dfec Reusing MANIFEST C:/Users/Deygu/OneDrive/Documents/GitHub/MyGameProject/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/01/10-13:08:07.306 1aa74 Level-0 table #5: started
-2023/01/10-13:08:07.310 1aa74 Level-0 table #5: 7485 bytes OK
-2023/01/10-13:08:07.312 1aa74 Delete type=0 #3
-2023/01/10-13:08:07.313 1aa74 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
